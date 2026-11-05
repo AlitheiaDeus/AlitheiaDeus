@@ -4,61 +4,40 @@
 
   <p align="center">
     <img src="https://img.shields.io/badge/Focus-Fun-FFB7B2?style=flat-square" />
-    <img src="https://img.shields.io/badge/Vibe-Curious%20%26%20Playful-B5EAD7?style=flat-square" />
-    <img src="https://img.shields.io/badge/Building-Simulators%20%26%20Agents-E2F0CB?style=flat-square" />
+    <img src="https://img.shields.io/badge/Code-Almost%20All%20Python-B5EAD7?style=flat-square" />
+    <img src="https://img.shields.io/badge/Status-🐛-E2F0CB?style=flat-square" />
   </p>
 
 </div>
 
 ---
 
-### 🌸 `What's Happening Here?`
+### 🌸 `What I Actually Work On`
 
 ```text
 ╭──────────────────────────────────────────────────────────────╮
-│ 🛸 Flocking Boids  : 3D swarm math that became a whole game  │
-│ 🤖 Local LLMs      : Terminal RPGs & prompt experiments      │
-│ 🎮 Mechanics & IoT : Reverse-engineering ACs, puzzles & CTFs │
-│ ☕ Current Mission : Building things that spark genuine joy  │
+│ 🛸 AlitheiaHive    : 3D boids that accidentally became a game│
+│ 🤖 Local AI        : Terminal text RPGs & Ollama experiments │
+│ ❄️ Home Hacking    : Making my smart AC work purely on LAN   │
+│ 🐛 Philosophy      : Build things for fun, keep it honest    │
 ╰──────────────────────────────────────────────────────────────╯
 ```
 
-* 🛸 **Boids & Simulators**: Building [SwarmTech / AlitheiaHive](https://github.com/AlitheiaDeus/SwarmTech_v3-Uprising) — which accidentally evolved from innocent 3D boid flocking algorithms into a full tactical GCS simulator game (with dreams of flying actual hardware).
-* 👾 **Agentic Games & Local AI**: Crafting [ai-rpg](https://github.com/AlitheiaDeus/ai-rpg) (a terminal-based interactive fiction engine using local LLMs & Textual) and building agent workflows.
-* 🛠️ **Hardware & Reverse-Engineering**: Liberating my smart AC from cloud telemetry with [Daikin_BRP072C42-Controller](https://github.com/AlitheiaDeus/Daikin_BRP072C42-Controller), messing with ESP32s, and solving algorithmic puzzles.
+* 🛸 **[AlitheiaHive](https://github.com/AlitheiaDeus/AlitheiaHive)** — Started as a simple 3D boid flocking simulation, then spiraled into a drone swarm simulator game.
+* 👾 **[ai-rpg](https://github.com/AlitheiaDeus/ai-rpg)** — Terminal-based text RPG engine built with Python, `Textual`, and local LLMs via Ollama.
+* ❄️ **[Daikin AC Controller](https://github.com/AlitheiaDeus/Daikin_BRP072C42-Controller)** — Reverse-engineering my home air conditioner so it runs locally on my LAN with zero cloud dependencies.
+* 🧩 **[ThePuzzleLaw](https://github.com/AlitheiaDeus/ThePuzzleLaw)** — Logic and rule engines for asymmetric constraint puzzles.
+* ⏰ **[Clockity](https://github.com/AlitheiaDeus/Clockity)** — A minimalist visual clock interface (AI-generated frontend, because life is too short to fight raw CSS).
 
 ---
 
-### 🎀 `Featured Fun & Projects`
-
-| Project | What is it? | Flavor |
-| :--- | :--- | :--- |
-| 🛸 [**SwarmTech / AlitheiaHive**](https://github.com/AlitheiaDeus/SwarmTech_v3-Uprising) | Started as a 3D boids simulation, spiraled into a 60 FPS tactical GCS drone swarm simulator. | `WebGL` `Boids` `MAVLink` |
-| 👾 [**ai-rpg**](https://github.com/AlitheiaDeus/ai-rpg) | Terminal-based agentic text RPG engine driven by local LLMs and `Textual`. | `Python` `Local LLM` `Textual` |
-| ❄️ [**Daikin AC Controller**](https://github.com/AlitheiaDeus/Daikin_BRP072C42-Controller) | Zero-cloud LAN controller & dashboard reverse-engineered for smart AC adapters. | `Reverse Eng` `IoT` `Web` |
-| 🧰 [**antigravity-toolkit**](https://github.com/AlitheiaDeus/antigravity-toolkit) | Deterministic controllers, skills, and guardrails for autonomous agents. | `Agents` `CLI Tools` |
-| ⏰ [**Clockity**](https://github.com/AlitheiaDeus/Clockity) | A clean, aesthetically pleasing visual clock experiment. | `Vanilla JS` `CSS` |
-| 🧩 [**ThePuzzleLaw**](https://github.com/AlitheiaDeus/ThePuzzleLaw) | Constraint-based asymmetric puzzle engines and algorithmic rules. | `Logic` `Algorithms` |
-
----
-
-### 🧁 `My Sandbox & Toybox`
+### 🧁 `The Actual Toolbox`
 
 <div align="center">
 
-  <!-- Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5%2FCSS3-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-
-  <br/>
-
-  <!-- Tools & Tech -->
   <img src="https://img.shields.io/badge/Local_LLMs-Ollama_%26_LMStudio-FF6F61?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ComfyUI-Diffusion_Art-9B59B6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
 </div>
