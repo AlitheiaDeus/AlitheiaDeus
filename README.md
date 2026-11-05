@@ -4,7 +4,7 @@
 
   <p align="center">
     <img src="https://img.shields.io/badge/Focus-Fun-FFB7B2?style=flat-square" />
-    <img src="https://img.shields.io/badge/Code-Almost%20All%20Python-B5EAD7?style=flat-square" />
+    <img src="https://img.shields.io/badge/Core-Python-B5EAD7?style=flat-square" />
     <img src="https://img.shields.io/badge/Status-🐛-E2F0CB?style=flat-square" />
   </p>
 
@@ -12,26 +12,26 @@
 
 ---
 
-### 🌸 `What I Actually Work On`
+### 🌸 `Featured Projects`
 
 ```text
 ╭──────────────────────────────────────────────────────────────╮
 │ 🛸 AlitheiaHive    : 3D boids that accidentally became a game│
 │ 🤖 Local AI        : Terminal text RPGs & Ollama experiments │
 │ ❄️ Home Hacking    : Making my smart AC work purely on LAN   │
-│ 🐛 Philosophy      : Build things for fun, keep it honest    │
+│ 🐛 Philosophy      : Build things for fun, see what happens  │
 ╰──────────────────────────────────────────────────────────────╯
 ```
 
-* 🛸 **[AlitheiaHive](https://github.com/AlitheiaDeus/AlitheiaHive)** — Started as a simple 3D boid flocking simulation, then spiraled into a drone swarm simulator game.
+* 🛸 **[AlitheiaHive](https://github.com/AlitheiaDeus/AlitheiaHive)** — Started as a 3D boid flocking simulation, then spiraled into a drone swarm simulator game.
 * 👾 **[ai-rpg](https://github.com/AlitheiaDeus/ai-rpg)** — Terminal-based text RPG engine built with Python, `Textual`, and local LLMs via Ollama.
 * ❄️ **[Daikin AC Controller](https://github.com/AlitheiaDeus/Daikin_BRP072C42-Controller)** — Reverse-engineering my home air conditioner so it runs locally on my LAN with zero cloud dependencies.
 * 🧩 **[ThePuzzleLaw](https://github.com/AlitheiaDeus/ThePuzzleLaw)** — Logic and rule engines for asymmetric constraint puzzles.
-* ⏰ **[Clockity](https://github.com/AlitheiaDeus/Clockity)** — A minimalist visual clock interface (AI-generated frontend, because life is too short to fight raw CSS).
+* ⏰ **[Clockity](https://github.com/AlitheiaDeus/Clockity)** — Responsive, minimalist visual timepiece interface.
 
 ---
 
-### 🧁 `The Actual Toolbox`
+### 🧁 `Toolbox`
 
 <div align="center">
 
