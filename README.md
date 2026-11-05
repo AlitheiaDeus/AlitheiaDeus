@@ -1,42 +1,31 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,13,6&height=180&section=header&text=✨%20hi,%20i'm%20alitheia!%20✨&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Wave" />
-
-  <h1>Alitheia Wissen 🐛</h1>
-  <p><i>she/her &nbsp;·&nbsp; tinkerer, simulation wrangler & agent conspirator</i></p>
-
-  <p align="center">
-    <a href="https://orcid.org/0009-0001-0375-9691"><img src="https://img.shields.io/badge/ORCID-0009--0001--0375--9691-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" /></a>
-    <a href="https://linkedin.com/in/alitheiadeus"><img src="https://img.shields.io/badge/LinkedIn-in%2Falitheiadeus-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://x.com/AlitheiaDeus"><img src="https://img.shields.io/badge/X-%40AlitheiaDeus-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
-    <a href="https://instagram.com/_alitheiadeus"><img src="https://img.shields.io/badge/Instagram-_alitheiadeus-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,13,6&height=160&section=header&text=✨%20welcome%20to%20my%20toybox%20✨&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Wave" />
 
   <p align="center">
     <img src="https://img.shields.io/badge/Focus-Fun-FFB7B2?style=flat-square" />
-    <img src="https://img.shields.io/badge/Vibe-Fun-B5EAD7?style=flat-square" />
-    <img src="https://img.shields.io/badge/Status-🐛-E2F0CB?style=flat-square" />
+    <img src="https://img.shields.io/badge/Vibe-Curious%20%26%20Playful-B5EAD7?style=flat-square" />
+    <img src="https://img.shields.io/badge/Building-Simulators%20%26%20Agents-E2F0CB?style=flat-square" />
   </p>
 
 </div>
 
 ---
 
-### 🌸 `About Me`
+### 🌸 `What's Happening Here?`
 
 ```text
 ╭──────────────────────────────────────────────────────────────╮
 │ 🛸 Flocking Boids  : 3D swarm math that became a whole game  │
 │ 🤖 Local LLMs      : Terminal RPGs & prompt experiments      │
 │ 🎮 Mechanics & IoT : Reverse-engineering ACs, puzzles & CTFs │
-│ 🐛 Current State   : Just a caterpillar making fun things    │
+│ ☕ Current Mission : Building things that spark genuine joy  │
 ╰──────────────────────────────────────────────────────────────╯
 ```
 
-* 🐛 **Currently**: Having fun writing code that actually sparks joy (and definitely avoiding cursed university assignment archives).
 * 🛸 **Boids & Simulators**: Building [SwarmTech / AlitheiaHive](https://github.com/AlitheiaDeus/SwarmTech_v3-Uprising) — which accidentally evolved from innocent 3D boid flocking algorithms into a full tactical GCS simulator game (with dreams of flying actual hardware).
 * 👾 **Agentic Games & Local AI**: Crafting [ai-rpg](https://github.com/AlitheiaDeus/ai-rpg) (a terminal-based interactive fiction engine using local LLMs & Textual) and building agent workflows.
-* 🛠️ **Hardware & reverse-engineering**: Liberating my smart AC from cloud telemetry with [Daikin_BRP072C42-Controller](https://github.com/AlitheiaDeus/Daikin_BRP072C42-Controller), messing with ESP32s, and solving algorithmic puzzles.
+* 🛠️ **Hardware & Reverse-Engineering**: Liberating my smart AC from cloud telemetry with [Daikin_BRP072C42-Controller](https://github.com/AlitheiaDeus/Daikin_BRP072C42-Controller), messing with ESP32s, and solving algorithmic puzzles.
 
 ---
 
