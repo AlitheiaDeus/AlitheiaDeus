@@ -42,15 +42,6 @@
 
 </div>
 
----
-
-### 🐾 `GitHub Stats`
-
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=AlitheiaDeus&show_icons=true&theme=rose_pine&hide_border=true&bg_color=00000000&title_color=eb6f92&icon_color=f6c177&text_color=e0def4" alt="GitHub Stats" height="150" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AlitheiaDeus&layout=compact&theme=rose_pine&hide_border=true&bg_color=00000000&title_color=eb6f92&text_color=e0def4" alt="Top Languages" height="150" />
-</div>
-
 <div align="center">
   <br/>
   <p>₍ᐢ. .ᐢ₎ <i>thanks for stopping by! 🐛</i></p>
